@@ -26,18 +26,6 @@ We use the collected information to:
 
 ---
 
-### 3. How We Share Your Information
-
-We do **not** sell your personal information. We may share information with:
-
-- **Service Providers**: Such as Supabase (user auth & data storage), RevenueCat (subscription management), and OpenAI or other LLMs (for recipe generation and formatting).
-- **Analytics Providers**: Like Firebase or PostHog (if enabled) to analyze performance and user flow.
-- **Cloud Storage**: Uploaded photos and extracted recipes may be temporarily stored in cloud environments like AWS S3 to enable processing.
-
-We only share information that is necessary and follow data minimization practices.
-
----
-
 ### 4. Data Retention
 
 - We retain your content (recipes, images, import links) only as long as necessary to provide the service or comply with legal obligations.
@@ -84,4 +72,3 @@ If you have questions about this Privacy Policy or your data, contact us:
 
 ---
 
-Let me know if you want a shorter, App Store version too or if you'd like to add a data-sharing clause for AI usage.
