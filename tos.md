@@ -54,7 +54,7 @@ We reserve the right to update or modify these Terms at any time. We’ll notify
 ---
 
 ### 8. Contact
-If you have questions about these Terms, contact us at: support@reeldish.app
+If you have questions about these Terms, contact us at: neuralgorithmic@gmail.com
 
 ---
 
