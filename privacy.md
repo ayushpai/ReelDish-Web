@@ -8,15 +8,10 @@ ReelDish ("we", "our", or "us") respects your privacy. This Privacy Policy expla
 
 ### 1. Information We Collect
 
-#### a) **Information You Provide to Us**
-- **Account Information**: Email and/or authentication tokens used to sign in (e.g., via Apple or Supabase).
+#### **Information You Provide to Us**
+- **Account Information**: Email and/or Google / Apple authentication.
 - **User Content**: URLs from TikTok, Instagram, YouTube, or websites, and any photos uploaded through your camera or photo library.
 - **Subscription Data**: Managed via RevenueCat; includes transaction receipts, subscription status, and renewal events.
-
-#### b) **Information We Collect Automatically**
-- **Usage Data**: Screens visited, buttons tapped, features used (e.g., import source type), and error logs.
-- **Device Data**: Device type, OS version, unique device identifiers (like IDFV), language, and timezone.
-- **Analytics**: Collected via Apple analytics and optional tools like PostHog or Firebase for improving app experience.
 
 ---
 
