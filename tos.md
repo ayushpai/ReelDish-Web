@@ -1,4 +1,4 @@
-**ReelDish – Terms of Service**
+# **ReelDish – Terms of Service**
 
 Effective Date: 04/24/25
 
