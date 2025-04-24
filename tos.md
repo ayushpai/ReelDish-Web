@@ -57,5 +57,3 @@ We reserve the right to update or modify these Terms at any time. We’ll notify
 If you have questions about these Terms, contact us at: neuralgorithmic@gmail.com
 
 ---
-
-Let me know if you want this paired with a matching **Privacy Policy**, or if you need a version formatted for in-app display or markdown.
