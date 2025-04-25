@@ -21,7 +21,7 @@ You represent that you have the right to submit this content and that it does no
 ---
 
 ### 3. Subscription and Billing
-ReelDish offers a 7-day free trial to access premium features. Unless canceled at least 24 hours before the end of the trial, your subscription will automatically renew and you will be charged according to the pricing shown at the time of purchase.
+ReelDish monthly and yearly subscription options to access more features. Your subscription will automatically renew and you will be charged according to the pricing shown at the time of purchase.
 
 The subscription renews automatically each billing period (monthly or yearly), unless canceled. You can manage and cancel your subscription in your Apple ID settings. Deleting the App does not cancel your subscription.
 
